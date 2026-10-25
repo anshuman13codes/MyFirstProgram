@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanus\\source\\repos\\MyFirstProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195144E4-F276-406F-925E-DBA2BEA9CA6E}|MyFirstProgram\\MyFirstProgram.vcxproj|C:\\Users\\tanus\\source\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{195144E4-F276-406F-925E-DBA2BEA9CA6E}|MyFirstProgram\\MyFirstProgram.vcxproj|solutionrelative:MyFirstProgram\\MyFirstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFirstProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\tanus\\source\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.cpp",
+              "RelativeDocumentMoniker": "MyFirstProgram\\MyFirstProgram.cpp",
+              "ToolTip": "C:\\Users\\tanus\\source\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.cpp",
+              "RelativeToolTip": "MyFirstProgram\\MyFirstProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-25T13:55:52.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
